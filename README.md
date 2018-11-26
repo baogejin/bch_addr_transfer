@@ -1,7 +1,6 @@
 # bch_addr_transfer
 
-input: 
-a bch address
+modify the chain and addrStr in the code
 
 output:
 your input address.
