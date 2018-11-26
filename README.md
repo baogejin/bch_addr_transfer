@@ -4,6 +4,6 @@ input:
 a bch address
 
 output:
-your input address
-legacy address
+your input address.
+legacy address.
 cash address
